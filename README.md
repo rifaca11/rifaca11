@@ -42,8 +42,11 @@ Hi , welcome to my account 👀 I’m interested in web dev & web design
 
 <br>
 * 🌍  I'm based in Safi, Morocco
-* ✉️  You can contact me at [charifah1112@gmail.com](mailto:charifah1112@gmail.com)
+<br>
+* ✉️  You can contact me at [charifah1112@gmail.com]
+<br>
 * 🧠  I'm learning everything about coding
+<br>
 * ⚡  Rules of Optimization: Rule 1: Don’t do it. Rule 2 (for experts only): Don’t do it yet.
 
 
