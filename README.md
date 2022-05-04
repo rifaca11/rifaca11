@@ -40,6 +40,7 @@ Hi , welcome to my account 👀 I’m interested in web dev & web design 👀 Ho
 
 <br>
 
+<br>
 * 🌍  I'm based in Safi, Morocco
 * ✉️  You can contact me at [charifah1112@gmail.com](mailto:charifah1112@gmail.com)
 * 🧠  I'm learning everything about coding
