@@ -36,7 +36,7 @@ Full Stack Web Developer
 <br>
 
 <img src = "https://user-images.githubusercontent.com/61582763/134278937-ed33e623-b833-4565-945d-29fa43ea0b7c.gif" align = "right" alt="my_octocat" width=450px>
-Hi , welcome to my account 👀 I’m interested in web dev & web design 👀 How to reach me: LinkedIn
+Hi , welcome to my account 👀 I’m interested in web dev & web design 
 
 <br>
 
@@ -46,12 +46,17 @@ Hi , welcome to my account 👀 I’m interested in web dev & web design 👀 Ho
 * 🧠  I'm learning everything about coding
 * ⚡  Rules of Optimization: Rule 1: Don’t do it. Rule 2 (for experts only): Don’t do it yet.
 
+
+
 ### 🌱 Currently Learning:
 - Internet of Things (IoT)
 
 
 
 ### 🌍 Socials
+
+## 👀 How to reach me
+
 <p align = "center"> 
  <a href="https://www.facebook.com/Rifa CA" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a> <a href="https://www.github.com/rifaca11" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/_rifa_ca11" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/charifa-hniguira-925343195/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/Sharifa67790323" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a>
   <a href="https://discord.com/users/Charifa Hniguira#8774" target="_blank" rel="noreferrer">
