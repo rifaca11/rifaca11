@@ -38,6 +38,9 @@ Full Stack Web Developer
 <img src = "https://user-images.githubusercontent.com/61582763/134278937-ed33e623-b833-4565-945d-29fa43ea0b7c.gif" align = "right" alt="my_octocat" width=450px>
 Hi , welcome to my account 👀 I’m interested in web dev & web design 👀 How to reach me: LinkedIn
 
+<br>
+<br>
+
 * 🌍  I'm based in Safi, Morocco
 * ✉️  You can contact me at [charifah1112@gmail.com](mailto:charifah1112@gmail.com)
 * 🧠  I'm learning everything about coding
